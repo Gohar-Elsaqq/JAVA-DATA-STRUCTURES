@@ -17,11 +17,15 @@
       </list>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2othgRbUXZs2ZWIxut0t0LlpHnC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,13 +36,22 @@
     "Application.HashSetNumber.executor": "Run",
     "Application.List.executor": "Run",
     "Application.Queue.executor": "Run",
+    "Application.TheArrays.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "M:/KMGNNEW/JAVA-DATA-STRUCTURES",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -55,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1731694893327</updated>
     </task>
+    <task id="LOCAL-00001" summary="add JAVA-DATA-STRUCTURES">
+      <option name="closed" value="true" />
+      <created>1731770161926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731770161927</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add JAVA-DATA-STRUCTURES" />
+    <option name="LAST_COMMIT_MESSAGE" value="add JAVA-DATA-STRUCTURES" />
   </component>
 </project>
