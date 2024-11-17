@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2da85cb-4a68-4907-8f56-03fc67fab983" name="Changes" comment="" />
+    <list default="true" id="37770b11-11dd-419d-beeb-80e4c62e8896" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,87 +23,47 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;customColor&quot;: &quot;&quot;,
-  &quot;associatedIndex&quot;: 1
-}</component>
-  <component name="ProjectId" id="2othgRbUXZs2ZWIxut0t0LlpHnC" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2oy5HcloOI0LpyvKW7hg1qxnSeh" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.HashMap.executor": "Run",
-    "Application.HashSetNumber.executor": "Run",
-    "Application.List.executor": "Run",
-    "Application.Queue.executor": "Run",
-    "Application.StreamsAPI.executor": "Run",
-    "Application.TheArrays.executor": "Run",
-    "Application.TowArray.executor": "Run",
+    "Application.SelectionSort.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "M:/KMGNNEW/JAVA-DATA-STRUCTURES",
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
-  },
-  "keyToStringList": {
-    "GitStage.ChangesTree.GroupingKeys": [
-      "directory",
-      "module",
-      "repository"
-    ]
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.gohar" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d2da85cb-4a68-4907-8f56-03fc67fab983" name="Changes" comment="" />
-      <created>1731694893327</created>
+      <changelist id="37770b11-11dd-419d-beeb-80e4c62e8896" name="Changes" comment="" />
+      <created>1731828892706</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731694893327</updated>
+      <updated>1731828892706</updated>
     </task>
-    <task id="LOCAL-00001" summary="add JAVA-DATA-STRUCTURES">
-      <option name="closed" value="true" />
-      <created>1731770161926</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1731770161927</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update The Arrays fix code">
-      <option name="closed" value="true" />
-      <created>1731770830341</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1731770830341</updated>
-    </task>
-    <task id="LOCAL-00003" summary="update The Arrays fix code">
-      <option name="closed" value="true" />
-      <created>1731770835223</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1731770835223</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add JAVA-DATA-STRUCTURES" />
-    <MESSAGE value="update The Arrays fix code" />
-    <option name="LAST_COMMIT_MESSAGE" value="update The Arrays fix code" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/gohar/SelectionSort.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
